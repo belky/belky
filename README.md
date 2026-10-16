@@ -1,6 +1,6 @@
 # VampireBBS
 
-**[bbs.vampirebbs.org](https://bbs.vampirebbs.org)**
+**[www.vampirebbs.org](https://www.vampirebbs.org)**
 
 ---
 
