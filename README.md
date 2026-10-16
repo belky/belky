@@ -6,7 +6,7 @@
 
 ## Historia
 
-VampireBBS abrió en Madrid a finales de los años 80. La sysop era Belky — Antonio Hernández — y la BBS corrió sobre OS/2 Warp hasta que cerró alrededor del año 2000.
+VampireBBS abrió en Madrid a finales de los años 80. El sysop era Belky — Antonio Hernández — y la BBS corrió sobre OS/2 Warp hasta que cerró alrededor del año 2000.
 
 Durante más de una década fue un punto de encuentro de la escena H/P/A/V/C española: hacking, phreaking, anarchy, viruses, cracking. Pasaron por ella algunas de las figuras más conocidas del underground español de la época.
 
