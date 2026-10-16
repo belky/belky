@@ -49,8 +49,9 @@ En 2026 reabrió como BBS web, preservando la estética retro y recuperando lo q
 | Juego | Ambientación | Pts |
 |---|---|---|
 | [ESTACIÓN OUROBOROS](https://github.com/belky/estacion-ouroboros) | Terror cósmico · estación orbital | 150 |
+| [NODO CERO](https://github.com/belky/nodo-cero) | Thriller hacker · Madrid 1994 · FidoNet | 1000 (en desarrollo) |
 
-Incluye fuente `.ni` y compilado `.ulx` — jugable también con Gargoyle, Frotz o cualquier intérprete Glulx.
+Incluye fuente `.ni` y compilado `.ulx` — jugable también con Gargoyle, Lectrote o cualquier intérprete Glulx.
 
 ---
 
